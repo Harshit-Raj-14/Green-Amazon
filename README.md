@@ -57,6 +57,7 @@
 
 ## Prototype & Deployment Links
 - **Demo Link**: https://drive.google.com/file/d/1eDWbJUzNh7rD2wOPvgcoriddciYEUQWo/view?usp=sharing
+- 
 - **Deployment Link**: https://green-amazon-harshit.vercel.app/
 
 ## Instructions
@@ -84,6 +85,10 @@
 <hr>
 
 ![Screenshot 2024-11-22 at 17-23-45 Amazon in](https://github.com/user-attachments/assets/257ac197-f88a-4d0e-a75c-85cddf60480c)
+
+<hr>
+
+![Screenshot 2024-11-22 at 19-02-26 Overview Dashboard Eco Dashboard](https://github.com/user-attachments/assets/4a65b443-c365-4272-a0b7-37e69fdfa998)
 
 <hr>
 
