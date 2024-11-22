@@ -2,12 +2,16 @@
 
 ## Team Details
 **Team Name**: Kartavya
+
 **Team Members**: Harshit Raj
+
 **LinkedIn Profile**: https://www.linkedin.com/in/harshit-raj-500606229/
 
 ## Theme Details
 **Theme**: Develop Sustainable Solutions for the E-commerce Industry  
+
 **Objective**: Optimize e-delivery, reduce carbon footprint, and enhance recycling efforts.  
+
 **Theme Benefits**:
 - Promote eco-friendly choices and responsible decision-making.
 - Implement robust recycling, sustainable packaging, and net-zero carbon initiatives.
