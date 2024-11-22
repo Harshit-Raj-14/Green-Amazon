@@ -46,6 +46,10 @@
   - **Efficient Pickup Scheduling**: Area-based pickups for returns, with rewards for participation.
   - **Zero-Emission Fleets**: Choose electric or bicycle delivery options.
 
+## System Design 
+![Screenshot 2024-11-22 at 17-42-58 Team Kartavya - Presentation - Canva](https://github.com/user-attachments/assets/c97a0c22-7ded-4464-8965-f4fe5692ab3b)
+
+
 ## Prototype & Deployment Links
 - **Demo Link**: 
 - **Deployment Link**: https://green-amazon-harshit.vercel.app/
@@ -76,5 +80,11 @@
 
 ![Screenshot 2024-11-22 at 17-23-45 Amazon in](https://github.com/user-attachments/assets/257ac197-f88a-4d0e-a75c-85cddf60480c)
 
+<hr>
 
+![Screenshot 2024-11-22 at 17-40-44 Carbon Footprint Calculator · Streamlit](https://github.com/user-attachments/assets/2749c42e-3872-49b5-82a5-11ad7fc43e35)
+
+<hr>
+
+![Screenshot 2024-11-22 at 17-40-57 Carbon Footprint Calculator · Streamlit](https://github.com/user-attachments/assets/27246453-8396-492f-804b-59c014c7fbf5)
 
