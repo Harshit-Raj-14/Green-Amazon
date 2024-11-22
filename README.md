@@ -47,9 +47,34 @@
   - **Zero-Emission Fleets**: Choose electric or bicycle delivery options.
 
 ## Prototype & Deployment Links
-- **Demo Link**: [Link here]
-- **Deployment Link**: [Link here]
-- **Source Code**: [Green-Amazon GitHub](https://github.com/Harshit-Raj-14/Green-Amazon)
+- **Demo Link**: 
+- **Deployment Link**: https://green-amazon-harshit.vercel.app/
 
 ## Instructions
+* Backend Part
+  > cd backend
+  
+  >npm install
+  
+  > npm run dev
+
+* Frontend Part
+  > cd frontend
+  
+  >npm install
+  
+  > npm run dev
+
+## Project Images
+![Screenshot 2024-11-22 at 17-23-21 Amazon in](https://github.com/user-attachments/assets/d0098e59-d059-4308-8333-4c3902150097)
+
+<hr>
+
+![Screenshot 2024-11-22 at 17-23-32 Amazon in](https://github.com/user-attachments/assets/756b5fdd-8168-42c8-bab4-dbfe6941857a)
+
+<hr>
+
+![Screenshot 2024-11-22 at 17-23-45 Amazon in](https://github.com/user-attachments/assets/257ac197-f88a-4d0e-a75c-85cddf60480c)
+
+
 
