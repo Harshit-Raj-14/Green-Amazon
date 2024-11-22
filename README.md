@@ -27,7 +27,7 @@
 ### Solution 2: AI-Powered Eco Dashboard
 - **Eco-Dashboard**: Personalized tracking of eco-friendly purchases, carbon savings, and more.
 - **Green Bit Score**: A gamified score rewarding sustainable actions.
-- **AI-Driven Insights**: Personalized sustainability recommendations.
+- **AI-Driven Insights**: Personalized sustainability recommendations using trained AI NLM model.
 - **Green Deals**: Exclusive discounts for eco-conscious shoppers.
 - **Feedback System**: Report false eco-friendly claims and provide transparency.
 
