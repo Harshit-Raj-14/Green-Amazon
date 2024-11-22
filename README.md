@@ -1,8 +1,9 @@
 # Green Amazon - Sustainable E-commerce Solution
 
 ## Team Details
-**Team Name**: Kartavya  
+**Team Name**: Kartavya
 **Team Members**: Harshit Raj
+**LinkedIn Profile**: https://www.linkedin.com/in/harshit-raj-500606229/
 
 ## Theme Details
 **Theme**: Develop Sustainable Solutions for the E-commerce Industry  
@@ -51,7 +52,7 @@
 
 
 ## Prototype & Deployment Links
-- **Demo Link**: 
+- **Demo Link**: https://drive.google.com/file/d/1eDWbJUzNh7rD2wOPvgcoriddciYEUQWo/view?usp=sharing
 - **Deployment Link**: https://green-amazon-harshit.vercel.app/
 
 ## Instructions
