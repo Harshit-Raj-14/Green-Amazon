@@ -57,7 +57,7 @@
 
 ## Prototype & Deployment Links
 - **Demo Link**: https://drive.google.com/file/d/1eDWbJUzNh7rD2wOPvgcoriddciYEUQWo/view?usp=sharing
-- 
+
 - **Deployment Link**: https://green-amazon-harshit.vercel.app/
 
 ## Instructions
