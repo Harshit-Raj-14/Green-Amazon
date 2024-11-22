@@ -73,7 +73,7 @@
   
   >npm install
   
-  > npm run dev
+  > npm start
 
 ## Project Images
 ![Screenshot 2024-11-22 at 17-23-21 Amazon in](https://github.com/user-attachments/assets/d0098e59-d059-4308-8333-4c3902150097)
